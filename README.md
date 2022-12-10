@@ -1,2 +1,4 @@
-##2 Favorite Movie Series
-**Harry Potter**
+# Favorite Anime
+1. Tokyo Ghoul
+2. My Hero Academia
+3. Naruto
